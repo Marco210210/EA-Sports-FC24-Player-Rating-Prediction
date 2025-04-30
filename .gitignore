@@ -1,0 +1,6 @@
+prog/.gitattributes
+prog/.idea/
+prog/models/
+prog/cleaned_dataset.csv
+prog/final_predictions.csv
+prog/male_players.csv
