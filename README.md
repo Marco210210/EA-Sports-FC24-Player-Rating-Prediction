@@ -68,5 +68,5 @@ EA_Sports_FC24/
 
 ## 👥 Contributors
 
+- [Arcangeli Giovanni](https://github.com/GiovanniArcangeli)
 - Di Maio Marco
-- Arcangeli Giovanni
